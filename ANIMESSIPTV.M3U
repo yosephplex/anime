@@ -1,39 +1,23 @@
 
 
-#EXTINF:-1,PELICULAS
-#EXTSIZE: big
-#EXTBG: https://historiademardelplata.files.wordpress.com/2012/11/cineforo.gif
-https://dl.dropboxusercontent.com/s/pap3nsasupr3409/Peliculas.m3u?dl=0
 
 
 
-#EXTINF:-1,SAILOR MOON
-#EXTSIZE: big
-#EXTBG: https://media2.giphy.com/media/gTTI9wUmVj6Uw/giphy.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/SAILORMOONOTTPLAYER.M3U
+
 
 #EXTINF:-1,FULL METAL ALCHEMIST "LA ESTRELLA SAGRADA DE MILOS"
 #EXTSIZE: big
 #EXTBG: https://vignette.wikia.nocookie.net/akatsukiafterlife/images/d/d1/Aphro69oo.gif/revision/latest/top-crop/width/220/height/220?cb=20120130012944&path-prefix=es
 http://archive.org/download/icon1_20190813/15.mp4
 
-#EXTINF:-1,LA PRINCESA MONONOKE
-#EXTSIZE: big
-#EXTBG: https://66.media.tumblr.com/9a550aea895323cd209d9513b7157f43/tumblr_ndo5ibugfI1qesidao1_400.gifv
-http://archive.org/download/l4p1n324/L4%20P1N324.mp4
-
-
-#EXTINF:-1,ROBOTECH
-#EXTSIZE: big
-#EXTBG: http://www.macrossworld.com/mwf/uploads/profile/photo-15195.gif?_r=0
-https://raw.githubusercontent.com/yosephplex/plex/master/robotech.m3u
 
 
 
-#EXTINF:0,LA CASA DE LOS DIBUJOS
-#EXTSIZE: MEDIUM
-#EXTBG: https://thumbs.gfycat.com/AggressiveColorfulKudu-max-1mb.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/lacasadelosdibujos.m3u
+
+
+
+
+
 
 #EXTINF:-1,DISNEY CLASSICS
 #EXTSIZE: big
@@ -41,16 +25,6 @@ https://raw.githubusercontent.com/yosephplex/plex/master/lacasadelosdibujos.m3u
 https://dl.dropboxusercontent.com/s/czspb9068thpr6l/INFANTIL.M3U
 
 
-#EXTINF:-1,Dragon Ball Z
-#EXTSIZE: big
-#EXTBG: https://i.makeagif.com/media/2-11-2016/Xv4vmy.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/dragonballz.m3u
-
-
-#EXTINF:-1,SAINT SEIYA
-#EXTSIZE: big
-#EXTBG: https://i.makeagif.com/media/7-12-2015/fVePNJ.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/SAINTSEIYA.m3u
 
 
 #EXTINF:-1,YO KAI WATCH
@@ -60,25 +34,13 @@ http://archive.org/download/icon1_20190813/3.mp4
 
 
 
-#EXTINF:0,BROLY HD
-#EXTSIZE: MEDIUM
-#EXTBG: https://thumbs.gfycat.com/AcclaimedPerkyHerculesbeetle-max-1mb.gif
-https://dl.dropboxusercontent.com/s/ak5sl3syezk8oyu/BROLY.BR.LAT.mkv?dl=0
 
 
 
 
 
-#EXTINF:-1,Dragon ball
-#EXTSIZE: MEDIUM
-#EXTBG: https://i.gifer.com/fetch/w300-preview/ca/cab71bd463b3a893a9fba24476acb2ed.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/Sailor%20Moon.m3u
 
 
-#EXTINF:-1,BOB ESPONJA
-#EXTSIZE: MEDIUM
-#EXTBG: https://media.tenor.com/images/8c70e022e363876e9fd21a1bcd9ae5be/tenor.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/bobesponja.m3u
 
 #EXTINF:-1,MAGUILA EL GORILA
 #EXTSIZE: MEDIUM
@@ -100,40 +62,18 @@ https://dl.dropboxusercontent.com/s/4l9ry7x8h1kug7a/RICOCHET%20RABIT.m3u
 #EXTBG: http://1.bp.blogspot.com/-hR0AZIY8dnE/VngdB2XLBrI/AAAAAAAA5bE/poNOX63XtIA/s1600/coyote-11.gif
 https://dl.dropboxusercontent.com/s/xht5ni0y1ha36n6/el%20correcaminos.m3u
 
-#EXTINF:-1,LA LEYENDA DE LA NAGUALA
-#EXTSIZE: big
-#EXTBG: https://i.makeagif.com/media/1-10-2016/Lq0lUG.gif
-http://ia800809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
 
-#EXTINF:-1,Dragon ball GT
-#EXTSIZE: big
-#EXTBG: http://pa1.narvii.com/6343/63b8f182712aa5d9d779032466ddc3ce3616494d_00.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/Fullmetal%20Alchemist.m3u
 
-#EXTINF:-1,ataque de los tirtanes
-#EXTSIZE: big
-#EXTBG: http://pa1.narvii.com/6140/0ade1f70b77254284bd9e4c513ede60b56ab238a_00.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/Slam%20Dunk.m3u
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hPtizLY.jpg",SEINT SEIYA
-#EXTSIZE: big
-#EXTBG: https://thumbs.gfycat.com/AcidicInsistentBaldeagle-max-1mb.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/saint%20seiya.m3u
 
 #EXTINF:-1,KIMAGURE ORANGE ROAD
 #EXTSIZE: big
 #EXTBG: https://thumbs.gfycat.com/SereneSorrowfulEidolonhelvum-max-1mb.gif
 http://archive.org/download/KimagureOrangeRoadLaPelicula/kimagure%20orange%20road%20la%20pelicula.mp4
 
-#EXTINF:-1,animaniacs
-#EXTSIZE: MEDIUM
-#EXTBG: https://media.tenor.com/images/9b3bcb08e1b5bb0575a66f9e443f032f/tenor.gif
-https://raw.githubusercontent.com/yosephplex/plex/master/ANIMANIACS.M3U
 
-#EXTINF:0,NANATSU NO TAIZAI Prisioneros del Cielo
-#EXTSIZE: MEDIUM
-#EXTBG: https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/3/3a/Creation.gif/revision/latest?cb=20141102042850&path-prefix=es
-https://dl.dropboxusercontent.com/s/f3ie8cgbe4rtksc/The%20Seven%20Deadly%20Sins%20the%20Movie%20-%20Prisoners%20of%20the%20Sky.mkv?dl=0
+
+
 
 #EXTINF:-1,GARFIELD
 #EXTSIZE: MEDIUM
@@ -150,10 +90,7 @@ https://dl.dropboxusercontent.com/s/ojoh40fugt3fxl5/No.game.no.life.zero.mp4?dl=
 #EXTBG: https://thumbs.gfycat.com/BraveDefinitiveAustraliankestrel-max-1mb.gif
 https://dl.dropboxusercontent.com/s/siiytjlg6b9eqe9/My.hero.academia.two.heroes..mp4?dl=0
 
-#EXTINF:-1,THE MANDALORIAN
-#EXTSIZE: big
-#EXTBG: https://thumbs.gfycat.com/BoldArcticAmbushbug-max-1mb.gif
-https://dl.dropboxusercontent.com/s/f8nish6hf1665y2/The%20Mandalorian.m3u?dl=0
+
 
 #EXTINF:-1,LOS AUTOS LOCOS
 #EXTSIZE: big
@@ -172,34 +109,13 @@ https://dl.dropboxusercontent.com/s/rf1c0e4bh8lylmc/el%20pato%20lucas.m3u
 
 
 
-#EXTINF:0,Mazinger Z Infinity
-#EXTSIZE: BIG
-#EXTBG: https://thumbs.gfycat.com/ValidAbleKestrel-small.gif
-https://dl.dropboxusercontent.com/s/33xewvhb8a31azl/Mazinger.Z.Infinity.mp4?dl=0
 
 
 
-#EXTINF:-1,NARUTO
-#EXTSIZE: big
-#EXTBG: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ffe94ad5-38f3-4f09-a505-4dd2bd1c7f3e/d6541fl-f760c80b-9600-46fe-9cd6-bfb8b41e952c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmZTk0YWQ1LTM4ZjMtNGYwOS1hNTA1LTRkZDJiZDFjN2YzZVwvZDY1NDFmbC1mNzYwYzgwYi05NjAwLTQ2ZmUtOWNkNi1iZmI4YjQxZTk1MmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x6pnLjxKoPQLkMZg52G9sldxQDY05PZeNL5012u1gmM
-https://dl.dropboxusercontent.com/s/143o2hg57hkzo1k/NARUTO%20252-259.m3u
 
 
 
-#EXTINF:-1,CHICHO TERREMOTO
-#EXTSIZE: MEDIUM
-#EXTBG: https://media.tenor.com/images/c123d423f8d560048cdf7c3e43de9863/tenor.gif
-https://www.dropbox.com/s/lsio8qa575z9h9z/Chicho%20terremoto.m3u?dl=0
 
-#EXTINF:-1,LA ABEJA MAYA
-#EXTSIZE: big
-#EXTBG: https://www.gifmania.com/Gif-Animados-Dibujos-Animados/Imagenes-Dibujos-Animados-De-Los-70/Abeja-Maya/abeja-maya4-21276.gif
-https://www.dropbox.com/s/pujfswbam86ivwa/La%20abeja%20maya.m3u?dl=0
-
-#EXTINF:-1,LOS TROTAMUSICOS
-#EXTSIZE: MEDIUM
-#EXTBG: https://i.pinimg.com/236x/3b/1c/57/3b1c57e440c2f4b1eb185323b9f58384.jpg
-https://www.dropbox.com/s/u9x44ib6v6ijovc/Los%20trotam%C3%BAsicos.m3u?dl=0
 
 
 
@@ -213,11 +129,8 @@ https://www.dropbox.com/s/u9x44ib6v6ijovc/Los%20trotam%C3%BAsicos.m3u?dl=0
 https://dl.dropboxusercontent.com/s/gojb3rfz5c39a8u/ThunderBirds.m3u
 
 
-#EXTINF:0,Reino de los Supermanes
-https://dl.dropboxusercontent.com/s/mq4uy8e4cfxq33g/Reign.of.the.supermen.mp4?dl=0
 
-#EXTINF:0,RESURACCION DE FRIZER
-https://archive.org/download/0002lol/Dragon.Ball.Z.Resureccion.Freezer.mkv
+
 
 
 
